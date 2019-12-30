@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Flip Card Game
 
-You can use the [editor on GitHub](https://github.com/implicit-invocation/playable-ads-demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Concentration, also known as Match Match, Match Up, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Concentration can be played with any number of players or as solitaire. It is a particularly good game for young children, though adults may find it challenging and stimulating as well. The scheme is often used in quiz shows and can be employed as an educational game.
 
-### Markdown
+## Screenshots
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Video
 
-```markdown
-Syntax highlighted code block
+## Gameplay demo
+https://implicit-invocation.github.io/flip-card-demo/index.html
 
-# Header 1
-## Header 2
-### Header 3
+### Image sliding puzzle
 
-- Bulleted
-- List
+The 15-puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Square and many others) is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The puzzle also exists in other sizes, particularly the smaller 8-puzzle. If the size is 3×3 tiles, the puzzle is called the 8-puzzle or 9-puzzle, and if 4×4 tiles, the puzzle is called the 15-puzzle or 16-puzzle named, respectively, for the number of tiles and the number of spaces. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
 
-1. Numbered
-2. List
+## Screenshots
 
-**Bold** and _Italic_ and `Code` text
+## Video
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/implicit-invocation/playable-ads-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Gameplay demo 
+https://implicit-invocation.github.io/image-puzzle/index.html
