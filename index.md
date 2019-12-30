@@ -9,7 +9,7 @@ Concentration can be played with any number of players or as solitaire. It is a 
 ## Video
 
 ## Gameplay demo
-https://implicit-invocation.github.io/flip-card-demo/index.html
+[https://implicit-invocation.github.io/flip-card-demo/index.html](https://implicit-invocation.github.io/flip-card-demo/index.html)
 
 ### Image sliding puzzle
 
@@ -20,4 +20,4 @@ The 15-puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Squa
 ## Video
 
 ## Gameplay demo 
-https://implicit-invocation.github.io/image-puzzle/index.html
+[https://implicit-invocation.github.io/image-puzzle/index.html](https://implicit-invocation.github.io/image-puzzle/index.html)
