@@ -27,3 +27,4 @@ The 15-puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Squa
 
 ### Gameplay demo 
 [https://implicit-invocation.github.io/image-puzzle/index.html](https://implicit-invocation.github.io/image-puzzle/index.html)
+[https://implicit-invocation.github.io/starry-image-puzzle/](https://implicit-invocation.github.io/starry-image-puzzle/)
